@@ -1,0 +1,12 @@
+setup.py
+eloquent_tinyml/__init__.py
+eloquent_tinyml.egg-info/PKG-INFO
+eloquent_tinyml.egg-info/SOURCES.txt
+eloquent_tinyml.egg-info/dependency_links.txt
+eloquent_tinyml.egg-info/requires.txt
+eloquent_tinyml.egg-info/top_level.txt
+eloquent_tinyml/getting_started/__init__.py
+eloquent_tinyml/getting_started/iris/IrisDataset.py
+eloquent_tinyml/getting_started/iris/IrisPipeline.py
+eloquent_tinyml/getting_started/iris/IrisRandomForestClassifier.py
+eloquent_tinyml/getting_started/iris/__init__.py

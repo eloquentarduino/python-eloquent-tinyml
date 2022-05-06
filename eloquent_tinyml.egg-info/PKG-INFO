@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: eloquent-tinyml
+Version: 0.0.0
+Summary: A collection of utilities to perform TinyML from Python
+Home-page: https://github.com/eloquentarduino/python-eloquent-tinyml
+Download-URL: https://github.com/eloquentarduino/python-eloquent-tinyml/blob/master/dist/eloquent_tinyml-.tar.gz?raw=true
+Author: Simone Salerno
+Author-email: support@eloquentarduino.com
+License: MIT
+Keywords: ML,machine learning
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Code Generators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+
+UNKNOWN
+
