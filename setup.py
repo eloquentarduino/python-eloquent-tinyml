@@ -5,13 +5,13 @@ packages=["eloquent_tinyml", "eloquent_tinyml.getting_started", "eloquent_tinyml
 setup(
   name='eloquent_tinyml',
   packages=packages,
-  version='',
+  version='0.0.1',
   license='MIT',
   description='A collection of utilities to perform TinyML from Python',
   author='Simone Salerno',
   author_email='support@eloquentarduino.com',
   url='https://github.com/eloquentarduino/python-eloquent-tinyml',
-  download_url='https://github.com/eloquentarduino/python-eloquent-tinyml/blob/master/dist/eloquent_tinyml-.tar.gz?raw=true',
+  download_url='https://github.com/eloquentarduino/python-eloquent-tinyml/blob/master/dist/eloquent_tinyml-0.0.1.tar.gz?raw=true',
   keywords=[
     'ML',
     'machine learning'
